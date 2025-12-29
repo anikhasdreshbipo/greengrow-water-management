@@ -47,4 +47,4 @@
 2.  Monitor the EC (Electrical Conductivity) and pH levels of the water in NRHT-01. Ensure EC is between 1.5 - 2.5 mS/cm and pH is between 5.8 - 6.5 before irrigation.
 3.  Connect the transfer pump (TP-202) to the designated compost irrigation spigots.
 4.  Irrigate designated compost windrows for 15 minutes per day, three times a week.
-5.  Log all transfer volumes and water quality metrics in the daily operations log.
+5.  Log all transfer volumes and water quality metrics in the daily operations log (template: `Water_Log_V3.xlsx`).
